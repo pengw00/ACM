@@ -1,3 +1,3 @@
-# ACM
-ACM algorithm code
+# Google Code Jam
+algorithm code
 learning code
